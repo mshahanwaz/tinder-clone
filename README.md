@@ -10,7 +10,7 @@ Simple Tinder clone with swiping functionality of images of people & also, real-
 ## Screenshots:
   <p align="center">
 	<kbd>
-		<img src="https://github.com/mshahanwaz/tinder-clone/blob/master/screenshots/1.png" width=600px style="border: 2px solid black;">
+		<img src="https://github.com/mshahanwaz/tinder-clone/blob/master/screenshots/tinder.png" width=600px style="border: 2px solid black;">
 	</kbd>
   </p>
   <hr/>
